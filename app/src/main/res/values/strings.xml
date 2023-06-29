@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="rollBtn">Rodar o dado!</string>
+    <string name="appTitle">Gerador de Dado</string>
+    <string name="value">"Valor: %1$s."</string>
+    <string name="valueNull">"Valor: ..."</string>
+</resources>

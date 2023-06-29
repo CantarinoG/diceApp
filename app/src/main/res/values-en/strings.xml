@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceApp</string>
+    <string name="rollBtn">Roll the dice!</string>
+    <string name="appTitle">Dice Generator</string>
+    <string name="value">"Value: %1$s."</string>
+    <string name="valueNull">"Value: ..."</string>
+</resources>
