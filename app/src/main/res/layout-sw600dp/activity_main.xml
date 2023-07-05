@@ -69,6 +69,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/alegreya_sans_sc_thin"
         android:text="@string/appTitle"
+        android:textAlignment="center"
         android:textSize="60sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -89,8 +90,8 @@
 
     <ImageView
         android:id="@+id/imgDado"
-        android:layout_width="168dp"
-        android:layout_height="158dp"
+        android:layout_width="330dp"
+        android:layout_height="262dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
